@@ -1,17 +1,17 @@
 document.addEventListener('DOMContentLoaded', function() {
     const animalImages = [
-        'lion.png',
-        'gajah.png',
-        'zebra.png',
-        'giraffe.png',
-        'monkey.png',
-        'whale.png',
-        'lion.png',
-        'gajah.png',
-        'zebra.png',
-        'giraffe.png',
-        'monkey.png',
-        'whale.png'
+        'lion.jpg',
+        'gajah.jpg',
+        'zebra.jpg',
+        'giraffe.jpg',
+        'monkey.jpg',
+        'whale.jpg',
+        'lion.jpg',
+        'gajah.jpg',
+        'zebra.jpg',
+        'giraffe.jpg',
+        'monkey.jpg',
+        'whale.jpg'
     ]; 
 
     let flippedCard = null;
